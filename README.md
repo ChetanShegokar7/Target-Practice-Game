@@ -28,6 +28,4 @@ To Fire bullets Use **"SPACEBAR"** key.
 
 To EXIT the game use **"ESCAPE"** key.
 
-
-
-
+https://user-images.githubusercontent.com/86248226/127766329-e256fa41-6541-415a-918e-f33042484996.mp4
